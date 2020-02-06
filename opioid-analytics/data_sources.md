@@ -25,3 +25,8 @@
 - (Northwestern MSiA Student Research)[https://sites.northwestern.edu/msia/2019/12/17/saving-us-from-opioid-addiction-one-machine-learning-solution-at-a-time/]
 - (Washington Post DEA opioid trafficking dataset](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/)
 - (Toward Data Science Opioid by the Numbers post)[https://towardsdatascience.com/the-opioid-crisis-in-data-16098bd6dd55]
+
+### CDC
+
+- (Vital Statistics)[https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm]
+- (Wonder online database)[https://wonder.cdc.gov/]
