@@ -9,6 +9,8 @@
 
 - (Prescriber Utilization and Payment Data)[https://data.cms.gov/Medicare-Part-D/Medicare-Provider-Utilization-and-Payment-Data-201/77gb-8z53]: Individual prescribing data of health care providers, including specialty, state, zip code, drug, claims, and beneficiaries
 
+- (US Opiate Prescriptions/Overdoses)[https://www.kaggle.com/apryor6/us-opiate-prescriptions/data]: Kaggle cleaned-up dataset
+
 ### amfAR
 - (Opioid and Health Indicators Database)[https://opioid.amfar.org/indicator/opioid_RxRate]: Country-level data on various opioid-related indicators including prescriptions per 100 persons, emergency department visits, and facilities providing substance abuse treatment. Also offers a full (list of sourced data)[https://opioid.amfar.org/about/sources]
 
