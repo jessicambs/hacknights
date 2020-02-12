@@ -11,6 +11,11 @@
 
 - (US Opiate Prescriptions/Overdoses)[https://www.kaggle.com/apryor6/us-opiate-prescriptions/data]: Kaggle cleaned-up dataset
 
+### Open Payments
+- (Open Payments Database)[https://openpaymentsdata.cms.gov/]: about Payments made by drug manufacturers and specialty pharmacies to doctors and teaching hospitals
+
+- (NPPES Registry)[https://npiregistry.cms.hhs.gov/]: Directory of all active National Provider Identifier (NPI) records
+
 ### amfAR
 - (Opioid and Health Indicators Database)[https://opioid.amfar.org/indicator/opioid_RxRate]: Country-level data on various opioid-related indicators including prescriptions per 100 persons, emergency department visits, and facilities providing substance abuse treatment. Also offers a full (list of sourced data)[https://opioid.amfar.org/about/sources]
 
