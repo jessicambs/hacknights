@@ -37,3 +37,4 @@
 
 - (Vital Statistics)[https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm]
 - (VSSR provisional opioid death counts)[https://data.cdc.gov/NCHS/VSRR-Provisional-Drug-Overdose-Death-Counts/xkb8-kh2a]
+- (Wonder Online Database - Multiple Causes of Death)[https://wonder.cdc.gov/controller/datarequest/D77]: Use MDC IDC-10 Code T40.1 - T40.4
